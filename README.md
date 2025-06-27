@@ -1,18 +1,27 @@
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-</head>
 <body>
-
-<div class="header">
-    <h1>GitHub-резюме Соколова Андрея</h1>
-    <p>Приветствую, дорогой посетитель!<br>Меня зовут <strong>Соколов Андрей</strong>, начинающий <strong>специалист</strong>!</p>
-</div>
-<div class="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzZ3VyeHN6aDZkeHp2ZW5uNXl3ZXBxc3d0eGpkbmFicWs0a3N1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" height="250" alt="Серьезный, матающий головой, разработчик, в зеленых оттенках.">
-</div>
+	<head>
+		<div class="main_header" align="center">
+    		<h1>GitHub-резюме Соколова Андрея</h1>
+    		<p>Приветствую, дорогой посетитель!
+			<p>Меня зовут <strong>Соколов Андрей Сергеевич</strong>,<br />специалист в <strong>информационной системе и программировании</strong>.</p>
+			<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzZ3VyeHN6aDZkeHp2ZW5uNXl3ZXBxc3d0eGpkbmFicWs0a3N1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" height="250" alt="Серьезный, матающий головой, разработчик, в зеленых оттенках.">
+			<div>
+				<a href="https://github.com/HackLucky/github-profile-views-counter">
+				    <img width="150px" src="https://komarev.com/ghpvc/?username=HackLucky&color=green">
+				</a>
+			</div>
+		</div>
+	</head>
+	<body>
+		<p align='center'>
+		   <a href="https://github-readme-stats.vercel.app/api?username=HackLucky&show_icons=true&count_private=true&locale=ru&theme=merko">
+		       <img height=150px src="https://github-readme-stats.vercel.app/api?username=HackLucky&show_icons=true&count_private=true&card_width=500px&locale=ru&theme=merko"/>
+		   </a>
+		   <a href="https://github.com/HackLucky/github-readme-stats&locale=ru&theme=merko">
+		       <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackLucky&layout=compact&card_width=350px&locale=ru&theme=merko"/>
+		   </a>
+		</p>
+	</body>
 <!--
 <div class="contacts">
   <a>
